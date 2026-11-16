@@ -2,11 +2,9 @@
   <img src="https://raw.githubusercontent.com/sichmesh/.github/main/profile/banner.png" alt="SICH — off-grid mesh communication" width="100%" />
 </p>
 
-**SICH** is an off-grid communication device. It lets people exchange messages, voice and location over a long-range LoRa mesh — no mobile network, no internet, no infrastructure.
+**SICH** is an off-grid communication device. It lets people send messages over a long-range LoRa mesh — no mobile network, no internet, no infrastructure. Short voice messages are in development.
 
-Every device relays traffic for the others, so the network grows with each node and keeps working when cell towers and internet links go down. SICH grew out of what happened in Ukraine: when infrastructure fails, people still need to reach each other.
-
-**SICH** — автономний пристрій зв'язку. Повідомлення, голос і геолокація через LoRa mesh-мережу великої дальності — без мобільного зв'язку, інтернету та інфраструктури. Розроблено українцями.
+Devices can relay messages for each other, so the network keeps working when cell towers and internet links go down. SICH grew out of what happened in Ukraine: when infrastructure fails, people still need to reach each other.
 
 ---
 
